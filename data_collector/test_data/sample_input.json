@@ -1,0 +1,7 @@
+{
+    "patterns": [
+        {"pattern": "\\d{4}-\\d{2}-\\d{2}", "output_field": "dates"},
+        {"pattern": "#\\w+", "output_field": "hashtags"}
+    ],
+    "raw_data": "2024-08-20 发布 #美食日记\n2024-09-01 计划 #旅行攻略"
+}
